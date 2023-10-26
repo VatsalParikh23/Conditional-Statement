@@ -1,5 +1,5 @@
 # Conditional-Statement
-##If Statement
+## If Statement
 
 The if statement is used to execute a block of code if a specified condition is true. If the condition is false, the code block is skipped.
 
@@ -7,7 +7,7 @@ if (condition) {
     // Code to execute if the condition is true
 }
 
-##If-Else Statement
+## If-Else Statement
 
 The if-else statement is used to execute one block of code if a condition is true and another block of code if the condition is false.
 
@@ -16,7 +16,7 @@ if (condition) {
 } else {
     // Code to execute if the condition is false
 }
-##If-else-if-else Statement
+## If-else-if-else Statement
 
 The if-else-if-else statement is used to test multiple conditions. It allows you to execute different blocks of code based on the first condition that evaluates to true.
 
@@ -28,7 +28,7 @@ if (condition1) {
     // Code to execute if none of the conditions are true
 }
 
-ALGORITHM
+# ALGORITHM
 Check Even or Odd Algorithm using If-Else:
 1.Start
 
