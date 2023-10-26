@@ -12,9 +12,13 @@ if (condition) {
 The if-else statement is used to execute one block of code if a condition is true and another block of code if the condition is false.
 
 if (condition) {
+
     // Code to execute if the condition is true
-} else {
+}
+else {
+
     // Code to execute if the condition is false
+
 }
 ## If-else-if-else Statement
 
